@@ -3,7 +3,7 @@ Using Load Balancer, deployed 2 compute instances on OCI as Infrastrcuture-as-Co
 
 Algorithm Used-Round Robin
 
-                                              ##Architecture
+                                              <b>Architecture</b>
 ![image](https://github.com/REKKKLESS/OCI-Terraform-Infrastructure-Automation/assets/107069125/92a99af2-d86b-4a5e-8d0c-664d1e25eb9e)
 
 
